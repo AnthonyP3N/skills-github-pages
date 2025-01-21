@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+fortnite: Welcome to my fortnite
 ---
 
